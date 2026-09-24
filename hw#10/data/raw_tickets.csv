@@ -1,0 +1,175 @@
+text,label
+A guest wrote a fake review on my apartment,review
+How do I extend my stay by two more nights?,booking
+My five star review disappeared,review
+can hosts see my review before publishing theirs?,review
+How do I block dates when the flat is not available?,listing
+I want to change my phone number,account
+Is there a minimum stay for this listing?,booking
+How do I delete my account and all my data?,account
+How do I update my date of birth?,Account
+Photos in my listing appear rotated,listing
+"<p>Host asks me to pay outside the platform, is it safe?</p>",payment
+Can I book a flat for three months?,Booking
+Can I reply to a review from a guest?,review
+I want to pay the rent monthly instead of upfront,payment
+What currency will I be charged in?,payment
+Can hosts see my review before publishing theirs?,review
+When is the money taken from my account?,payment
+  I CANNOT UPLOAD PHOTOS TO MY LISTING   ,LISTING
+My refund is less than I expected,payment
+Can I set a minimum number of nights for my property?, listing 
+"My account was blocked, why?",account
+I want to delete my old listing completely,listing
+How do I change my profile photo?,account
+How do I log out from all devices?,account
+Is VAT included in the price?,Payment
+my listing was removed without notice, listing 
+I suspect my account was hacked,account
+  MY BOOKING IS STILL PENDING AFTER 24 HOURS   ,booking
+My listing has the wrong number of bedrooms,listing
+The login page says my email is not registered,Account
+Can I copy an existing listing for a second flat?,listing
+Why can't I rate the host?,review
+How do I set different prices for weekends?,LISTING
+Why did my card get a temporary hold?,payment
+Can I book without the host approving it first?,booking
+How do I change the email on my account?,account
+How do I mark my apartment as pet friendly?,listing
+<p>Two-factor authentication code is not working</p>,account
+How do I verify my identity?,account
+How do I block dates when the flat is not available?,listing
+My lisitng shows another host's phone number,listing
+Can I pay in cash when I arrive?,payment
+My email confirmation link does not work,account
+The review mentions personal information about me,review
+How are the star ratings calculated?,review
+I cannot edit the property type of my listing,listing
+Can I switch my profile from guest to host?,Account
+I was charged twice for the same stay,payment
+I suspect my account was hacked,account
+How can I change the language of my profile?,account
+The app logs me out every few minutes,account
+  THE RATING OF MY LISTING DROPPED FOR NO REASON   , review 
+I want to add photos to my review,review
+My review is not visible on the listing page,review
+My review was published under another name,review
+My host asked me to cancel the booking myself,booking
+The sign up form gives an error,account
+The check-in time in my booking is wrong,BOOKING
+Can I leave a review for a cancelled stay?,review
+I need an invoice for my company,payment
+i did not receive the verification code,account
+  I WANT TO MOVE MY RESERVATION TO ANOTHER MONTH   ,booking
+Can I hide reviews older than two years?,review
+The host threatened me because of my reveiw,review
+I want to cancel my reservation for next weekend,booking
+Can I have one account for guest and host roles?,Account
+Can I edit the review I left yesterday?,review
+I want to report an offensive review,review
+Can I book without the host approving it first?,booking
+I need to update the billing address on my invoice,payment
+"I booked the wrong apartment by mistake, please help",booking
+The security deposit was not returned,payment
+how do i change my profile photo?,account
+Why is there a cleaning fee added to my bill?,payment
+Someone else logged into my account,account
+  I WAS CHARGED AFTER CANCELLING FOR FREE   ,payment
+  I NEED TO SHORTEN MY STAY AND LEAVE TWO DAYS EARLIER   ,booking
+The booking confirmation email never arrived,booking
+<p>What happens if I miss my check-in?</p>,booking
+The host left an unfair review about me,review
+Can I change my username?,account
+I want to change the title of my listing,listing
+Why was my reservation cancelled automatically?,booking
+I need to update the billing address on my invoice,payment
+How do I see all my upcoming reservations?,booking
+  IS IT POSSIBLE TO ADD ONE MORE GUEST TO MY RESERVATION?   ,booking
+How do I write a review after my stay?,REVIEW
+is there a minimum stay for this listing?,booking
+The review says the flat was dirty but it was not,review
+Can I publish a listing in two languages?,listing
+I forgot my password and cannot log in,ACCOUNT
+<p>The number of nights in my booking is incorrect</p>,booking
+How do I add a new payment method?,payment
+How do I request an early check-in?,booking
+I cannot find my reservation in the app anymore,Booking
+How do I sort my listings by date created?,listing
+I paid but the booking still says unpaid,payment
+Why do I need to upload my ID document?,account
+The paymnet page keeps showing an error,payment
+Hello?,
+How do I change the price per night for my flat?,listing
+How do I turn off email notifications?,account
+My payment is stuck in processing,payment
+How do I see all my upcoming reservations?,booking
+The password reset link has expired,account
+How do I set the check-in instructions for guests?,listing
+Can I transfer my booking to a friend?,Booking
+the host wants to change my check-out date,booking
+The feedback form does not open,review
+How do I publish a new apartment on the site?,listing
+The address on my listing is displayed incorrectly, listing 
+"  MY TRIP DATES CHANGED, HOW DO I UPDATE THE RESERVATION?   ",booking
+The map pin for my property is in the wrong place,listing
+How long do I have to leave a review?,Review
+I did not receive the verification code,account
+My profile says it is not verified, account 
+Can I change the check-in date of my booking?,Booking
+<p>Do reviews affect my position in search?</p>,review
+My credit card was declined at checkout,payment
+Why was my review rejected by moderation?, review 
+<p>My account shows the wrong name</p>,ACCOUNT
+<p>I see an unknown charge on my bank statement</p>,payment
+The total price is higher than shown in the search,payment
+can i offer a weekly discount on my property?,listing
+<p>The guest review contains false information</p>,review
+Can I temporarily hide my listing?,LISTING
+How much is the deposit for this apartment?,payment
+The description of my house was cut off,listing
+How long does a bank transfer take to be confirmed?,payment
+How do I add house rules to the listing?,listing
+Search filters do not find my apartment by district,listing
+<p>Can I get a receipt for last month's rent?</p>,payment
+How do I set the check-in instructions for guests?,listing
+How far in advance can I make a reservation?,booking
+How do I see reviews I have written?,review
+The service fee seems too high,payment
+The host wants to change my check-out date,booking
+My listing is not showing up in search results,Listing
+I stayed there but the site says I cannot leave feedback,review
+The calendar shows the dates are free but I cannot reserve them,BOOKING
+   ,payment
+how do i log out from all devices?,account
+I cannot log in with Google anymore,account
+<p>Do reviews affect my position in search?</p>,review
+Can I offer a weekly discount on my property?,listing
+  THE HOST REJECTED MY BOOKING REQUEST WITHOUT EXPLANATION   ,booking
+I lost access to the phone linked to my account,account
+When will I get my refund after cancelling?,payment
+My listing was removed without notice, listing 
+I got two confirmations for the same stay,booking
+The exchange rate you used is wrong,payment
+  I WANT TO MOVE MY RESERVATION TO ANOTHER MONTH   ,booking
+  i need to shorten my stay and leave two days earlier   ,booking
+my average rating is calculated incorrectly,review
+  MY BOOKING IS STILL PENDING AFTER 24 HOURS   ,booking
+Can I list a room instead of the whole apartment?,listing
+Can I reserve two apartments at the same time?,booking
+,booking
+test test,
+I arrived and the host says there is no reservation under my name,booking
+How many photos can I add to one listing?,listing
+The app crashed while I was confirming the booking,booking
+The listing status is stuck on under review,listing
+  CAN I DELETE A NEGATIVE REVIEW?   ,review
+<p>Can I review a listing anonymously?</p>,review
+My average rating is calculated incorrectly,review
+A competitor is posting bad reviews on my listing,REVIEW
+Can I split the payment between two cards?,payment
+"I registered twice with different emails, can you merge them?",account
+How do I add amenities like wifi and parking?,listing
+How do I download all my personal data?,account
+Can I pay with PayPal?,Payment
+How do I set different prices for weekends?,LISTING
+The discount code did not apply to the price,payment
